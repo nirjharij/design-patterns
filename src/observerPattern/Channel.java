@@ -5,4 +5,3 @@ public interface Channel {
 	public void removeSubscriber(Subscriber s);
 	public void notifySubscribers();
 }
-
